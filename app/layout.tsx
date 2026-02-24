@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "JobBoard Pro | Find Your Next Role",
+  title: "Windmark.Jobs | Find Your Next Role",
   description:
     "Browse thousands of job opportunities with advanced filtering, sorting, and export capabilities.",
   keywords: ["jobs", "careers", "employment", "job portal", "job listings"],
